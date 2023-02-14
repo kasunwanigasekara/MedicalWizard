@@ -1,0 +1,17 @@
+{
+    "name": "kasun/medicalwizard",
+    "description": "medical wizard",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "medicalwizard\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Doe",
+            "email": "kasunwanigasekara@gmail.com"
+        }
+    ],
+    "require": {}
+}
